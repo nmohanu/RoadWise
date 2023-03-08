@@ -1,0 +1,25 @@
+@font-face {
+    font-family: Quicksand;
+    src : url('Quicksand-SemiBold.ttf');
+}
+
+.label{
+    -fx-font-family: 'Quicksand', sans-serif;
+    -fx-opacity: 0.5;
+}
+
+.button{
+    -fx-font-family: 'Quicksand', sans-serif;
+}
+
+.textfield{
+    -fx-font-family: 'Quicksand', sans-serif;
+}
+
+#rightSide {
+    -fx-background-color: white;
+}
+
+#leftSide {
+    -fx-background-color: #c9e9ee;
+}
